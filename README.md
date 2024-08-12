@@ -59,6 +59,4 @@ The application fetches weather data using the [OpenWeatherMap API](https://open
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#) if you want to contribute.
-
-Feel free to customize the README further to match the specifics of your project!
+Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
