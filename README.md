@@ -6,6 +6,7 @@ Welcome to the Weather Web Application! This project is a simple and intuitive w
 
 - **Real-Time Weather Data:** Get accurate and up-to-date weather information for any location.
 - **City Search:** Easily search for weather data by entering the name of any city.
+- **Error Handling:** Displays an error message when an invalid or unrecognized city name is entered.
 - **Dynamic Backgrounds:** The background of the app changes based on the weather conditions, providing a visually appealing experience.
 
 ## 🛠️ Technologies Used
